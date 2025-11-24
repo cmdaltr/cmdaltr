@@ -1,3 +1,6 @@
+### ☕️ Buy Me A Coffee
+<a href="https://buymeacoffee.com/cmdaltr" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/png-clipart/20250115/original/pngtree-coffee-mug-clip-art-png-image_12999920.png" alt="python" width="60" height="60"/></a>
+
 ### 🖥️ Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" alt="powershell" width="60" height="60"/></a>
