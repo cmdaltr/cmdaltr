@@ -1,7 +1,7 @@
 ## 🎯 Experienced Threat Hunter
 
 <p align="left">
-  &nbsp;&nbsp;🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
+  ➕ &nbsp;&nbsp;🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
 </p>
 
 <a href="https://buymeacoffee.com/cmdaltr">
