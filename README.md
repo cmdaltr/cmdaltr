@@ -1,6 +1,7 @@
-## 🎯 Threat Hunter
+## 🎯 Experienced Threat Hunter
 
 <p align="left">
+  Highly knowledgable in:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat Detection | DFIR | Log Analysis | Malware Analysis
 </p>
 
