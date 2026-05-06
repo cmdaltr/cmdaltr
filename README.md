@@ -1,25 +1,8 @@
 ### 🖥️ Skillset
 
-<p align="left" style="white-space: nowrap;">
-  <a href="https://buymeacoffee.com/cmdaltr"><img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" height="240"/></a>
-</p>
-<p align="left">
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/powershell/">
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="60" height="60"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="60" height="60"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Regular_expression">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" width="60" height="60"/>
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60"/>
-  </a>
-</p>
+<a href="https://buymeacoffee.com/cmdaltr"><img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" height="240"/></a>
+
+<p align="left"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="40" height="40"/></a>&nbsp;<a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"/></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" width="40" height="40"/></a>&nbsp;<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/></a></p>
 <p align="left" style="white-space: nowrap;">
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/></a>
 </p>
