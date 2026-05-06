@@ -5,7 +5,7 @@
 </p>
 <p align="left" style="white-space: nowrap;">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80"/></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="80"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="120"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="80"/></a>
 </p>
 <p align="left" style="white-space: nowrap;">
