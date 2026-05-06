@@ -4,6 +4,8 @@
   ➕ &nbsp;&nbsp;🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
 </p>
 
+<br><br>
+
 <a href="https://buymeacoffee.com/cmdaltr">
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="600"/>
 </a>
