@@ -1,10 +1,7 @@
 ## 🎯 Experienced Threat Hunter
 
 <p align="left">
-  Highly knowledgable in:
-</p>
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat Detection | DFIR | Log Analysis | Malware Analysis
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
 </p>
 
 <a href="https://buymeacoffee.com/cmdaltr">
