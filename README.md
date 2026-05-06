@@ -1,7 +1,7 @@
 ### 🖥️ Skillset
 
 <p align="left" style="white-space: nowrap;">
-  <a href="https://buymeacoffee.com/cmdaltr"><img src="https://cdn.buymeacoffee.com/assets/logos/icon-black.png" height="60"/></a>
+  <a href="https://buymeacoffee.com/cmdaltr"><img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" height="60"/></a>
 </p>
 <p align="left" style="white-space: nowrap;">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/></a>
