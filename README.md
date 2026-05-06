@@ -2,6 +2,8 @@
 
 <p align="left">
   Highly knowledgable in:
+</p>
+<p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat Detection | DFIR | Log Analysis | Malware Analysis
 </p>
 
