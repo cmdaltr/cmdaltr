@@ -1,5 +1,9 @@
 ### 🖥️ Skillset
 
+Threat Hunter
+Threat Detection | DFIR | Log Analysis | Malware Analysis
+
+
 <a href="https://buymeacoffee.com/cmdaltr">
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="550"/>
 </a>
@@ -21,12 +25,6 @@
 </p>
 
 <br><br>
-
-### 🧠 Experience
-- Threat Hunting
-- Threat Detection
-- Digital Forensics & Incident Response
-- Log Analysis
 
 ### 📄 Publications
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
