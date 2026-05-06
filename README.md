@@ -1,6 +1,5 @@
-### 🖥️ Skillset
+## 🎯 Threat Hunter
 
-Threat Hunter
 Threat Detection | DFIR | Log Analysis | Malware Analysis
 
 
