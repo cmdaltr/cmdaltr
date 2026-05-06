@@ -1,7 +1,7 @@
 ## 🎯 Threat Hunter
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;Threat Detection | DFIR | Log Analysis | Malware Analysis
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Threat Detection | DFIR | Log Analysis | Malware Analysis
 </p>
 
 <a href="https://buymeacoffee.com/cmdaltr">
