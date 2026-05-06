@@ -1,5 +1,5 @@
 ### 🖥️ Skillset
-<p align="left">
+<p align="left" style="white-space: nowrap;">>
   <a href="https://buymeacoffee.com/cmdaltr" target="_blank" rel="noreferrer"> <img src="https://cdn.buymeacoffee.com/assets/logos/icon-black.png" alt="python" width="40" height="60"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" alt="powershell" width="60" height="60"/></a>
