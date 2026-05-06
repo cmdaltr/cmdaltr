@@ -4,8 +4,6 @@
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="550"/>
 </a>
 
-<br><br>
-
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
