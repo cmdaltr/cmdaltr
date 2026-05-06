@@ -1,11 +1,14 @@
 ## 🎯 Threat Hunter
 
-Threat Detection | DFIR | Log Analysis | Malware Analysis
-
+<p align="center">
+  Threat Detection | DFIR | Log Analysis | Malware Analysis
+</p>
 
 <a href="https://buymeacoffee.com/cmdaltr">
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="550"/>
 </a>
+
+<br>
 
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
