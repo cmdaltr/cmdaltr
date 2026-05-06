@@ -1,14 +1,14 @@
 ## 🎯 Experienced Threat Hunter
 
 <p align="left">
-  🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
+  &nbsp;&nbsp;🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
 </p>
 
 <a href="https://buymeacoffee.com/cmdaltr">
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="600"/>
 </a>
 
-<br>
+<br><br>
 
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
