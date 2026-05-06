@@ -7,10 +7,10 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80"/></a>
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="120"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="80"/></a>
+  <a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" height="80"/></a>
+  <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="80"/></a>
 </p>
 <p align="left" style="white-space: nowrap;">
-  <a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" height="60"/></a>
-  <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="60"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/></a>
 </p>
 <p align="left" style="white-space: nowrap;">
