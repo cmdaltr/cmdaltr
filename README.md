@@ -26,7 +26,7 @@
   &nbsp;&nbsp;<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.splunk.com"><img src="https://www.datocms-assets.com/55802/1715688864-splunklogo.png?auto=format" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/microsoft/Kusto-Query-Language"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Sentinel.svg" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com/security/products/security-operations"><img src="https://www.gstatic.com/bricks/image/9DbAxw2axlWyjJz1Yb7z9qnzBtvKZd34GXlFLjFUyZpNJVV9MoaLJJJsJPsoWT3BBq_uQis1xQvY.png" width="100"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/security/products/security-operations"><img src="https://www.gstatic.com/bricks/image/9DbAxw2axlWyjJz1Yb7z9qnzBtvKZd34GXlFLjFUyZpNJVV9MoaLJJJsJPsoWT3BBq_uQis1xQvY.png" width="110"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="90"/></a>
 </p>
