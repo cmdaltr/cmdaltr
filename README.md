@@ -4,13 +4,13 @@
   ➕ &nbsp;&nbsp;🔍 <strong>Threat Detection</strong> | 🫆 <strong>DFIR</strong> | 🪵 <strong>Log Analysis</strong> | 😈 <strong>Malware Analysis</strong>
 </p>
 
-<br><br>
+<br>
 
 <a href="https://buymeacoffee.com/cmdaltr">
   <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="540"/>
 </a>
 
-<br><br>
+<br>
 
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
