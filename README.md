@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://buymeacoffee.com/cmdaltr">
-  <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="500"/>
+  <img src="https://feederseries.net/wp-content/uploads/2021/07/bmc-button-1.png?w=736" width="540"/>
 </a>
 
 <br><br>
