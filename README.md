@@ -31,7 +31,7 @@
   <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="60"/></a>
 </p>
 
-<br><br>
+<br>
 
 ### 📄 Publications
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
